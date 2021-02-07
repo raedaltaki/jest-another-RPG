@@ -1,6 +1,6 @@
 const Potion = require('../lib/Potion.js');
 
-test('creates a health potion object', () => 
+test('creates a potion object', () => 
 {
   const potion = new Potion();
 
